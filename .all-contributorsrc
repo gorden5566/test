@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kingrongH",
+      "name": "kingrongH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42315902?v=4",
+      "profile": "http://blog.kingrong.kr",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "test",
+  "projectOwner": "gorden5566",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
